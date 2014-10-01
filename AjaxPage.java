@@ -1,6 +1,6 @@
 package com.dataart.selenium.pages;
 
-import com.dataart.selenium.framework.BasePage;
+////////////////////////import com.dataart.selenium.framework.BasePage;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
